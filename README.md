@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonbriganti
+- 👋 Hi, I’m @antonbriganti, this is my personal github and it has a lot of my side projects
 - 💖 I’m passionate about DevOps and Mentoring
 - 🤔 Currently working in k8s world
 - 📫 DM me on Twitter [here](https://twitter.com/antonbriganti_) if you want to talk
